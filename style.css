@@ -22,3 +22,42 @@ header{
 .banner{
     vertical-align: middle;
 }
+
+/* ---- Main ---- */
+
+.container{
+    background-color: white;
+    max-width: 790px;
+    margin: auto;
+}
+.top{
+    border-radius: 5px 5px 0px 0px;
+    margin: 40px auto 2px;
+    padding: 15px 50px 3px;
+}
+.bot{
+    border-radius: 0px 0px 5px 5px;
+    padding: 15px 50px;
+}
+
+/* ---- Menù ---- */
+
+.menù{
+    width: 70px;
+    height: 25px;
+    font-size: 8px;
+    font-weight: 1000;
+    margin-bottom: 5px;
+}
+.task{
+    background-color: #14aaf5;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+.section{
+    background-color: white;
+    border: solid 1px #c5ccd1;
+    border-radius: 5px;
+    color: #c5ccd1;
+}
