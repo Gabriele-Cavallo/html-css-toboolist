@@ -61,3 +61,35 @@ header{
     border-radius: 5px;
     color: #c5ccd1;
 }
+
+/* ---- Display ---- */
+
+.option{
+    margin-bottom: 10px;
+}
+.circle{
+    display: inline-block;
+    border: 1px solid black;
+    height: 15px;
+    width: 15px;
+    border-radius: 100%;
+    text-align: center;
+    line-height: 15px;
+}
+.circle-done{
+    border-color: green;
+    color: green;
+}
+.circle-undone{
+    border-color: red;
+    color: red;
+}
+.tag{
+    display: inline-block;
+    background-color: #09a9ed;
+    padding: 6px 15px;
+    color: white;
+    border-radius: 15px;
+    font-size: 10px;
+    font-weight: 1000;
+}
