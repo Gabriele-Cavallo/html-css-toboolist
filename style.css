@@ -67,6 +67,12 @@ header{
 .option{
     margin-bottom: 10px;
 }
+.steps{
+    margin-bottom: 20px;
+}
+.jobs{
+    margin-bottom: 10px;
+}
 .circle{
     display: inline-block;
     border: 1px solid black;
@@ -92,4 +98,19 @@ header{
     border-radius: 15px;
     font-size: 10px;
     font-weight: 1000;
+}
+.purple{
+    background-color: #ab5de6 ;
+}
+.green{
+    background-color: #2cc6ab ;
+}
+.yellow{
+    background-color: #ff9b00 ;
+}
+.pink{
+    background-color: #ec4a9d ;
+}
+.lightgreen{
+    background-color: #a3d116 ;
 }
