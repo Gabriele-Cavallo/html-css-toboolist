@@ -86,12 +86,12 @@ header{
     line-height: 15px;
 }
 .circle-done{
-    border-color: green;
-    color: green;
+    border-color: #42ccb4;
+    color: #42ccb4;
 }
 .circle-undone{
-    border-color: red;
-    color: red;
+    border-color: #ff6565;
+    color: #ff6565;
 }
 .tag{
     display: inline-block;
